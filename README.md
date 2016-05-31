@@ -1,8 +1,8 @@
 # Red Panthers - Open Source Saturday
 
-Team at *Red Panthers*, care a lot about Ruby and Open Source. Its part our DNA. Hence to promote, and intorduce more programmers to open source we conduct *"Open Source Saturday"* on the first saturday of evey month. The main aim of the day is to pair up with a fellow developer and try fixing the issues of an Open Source Project you and your team mate is interested, if you don't have any particular project in mind we will have a list of curated projects and issues to help begineers get started easier.
+Team at [Red Panthers](https://redpanthers.co), care a lot about Ruby and Open Source, its part our DNA. So to work on our passion and to encourage new programmers to open source we conduct **"Open Source Saturday"** on the first saturday of evey month.The main aim of the day would be to pair up with a fellow developer and try closing the open issues of an Open Source Project you might be interested in. If you don't have any particular project in mind you can choose from the list of curated projects and issues we have [here](https://github.com/redpanthers/open-source-saturday/blob/master/projects.md).
 
-By the end of the day, we hope that everyone who take parts in the event would have a better understanding about the project they worked, made a friend, and has some fun.
+By the end of the day, we hope that everyone who take parts in the event would have a better understanding about the project they worked, made a friend, and had some fun.
 
 Agenda
 ------
