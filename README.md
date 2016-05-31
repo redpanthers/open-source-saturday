@@ -8,11 +8,17 @@ Agenda
 ------
 
 > 10:00 AM - General Introduction
+
 > 10:30 AM - Group up as pairs and start selecting the issues/projects you are interested
+
 > 10:30 AM - Start Coding :)
+
 > 12:30 PM - Break for Lunch and Socialize, discuss the issues/challenges you are facing while coding
+
 > 02:00 PM - Resume Coding
+
 > 05:00 PM - Finish for the day, share your experience. If interested can continue coding, and finish what was started.
+
 > At 05:00 the event doesn't have to stop, we can continue our discussions at a local coffee shop or Beer Palour (Have KRUG's first DrinkUp :D )
 
 How to Contribute
