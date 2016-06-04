@@ -81,3 +81,8 @@ How to RSVP
 Drop an email to the office mail address, with the subject "Interested to attend Open Source Saturday"
 
 Kochi Office: `hsps[at]redpanthers.co`
+
+Chat Channel
+------------
+
+[Open Source Saturday - Discord ](https://discord.me/opensource-saturday)
