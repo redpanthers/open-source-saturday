@@ -8,3 +8,4 @@ Simple Beginer Level Repos + issues
 * [Exception Notification](https://github.com/smartinez87/exception_notification/issues)
 * [Protus](https://github.com/SUSE/Portus/labels/junior%20job)
 * [RBKit-electron-redux](https://github.com/code-mancers/rbkit-electron-redux/issues)
+* [Jruby](https://github.com/jruby/jruby/labels/beginner)
