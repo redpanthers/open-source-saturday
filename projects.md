@@ -9,3 +9,4 @@ Simple Beginer Level Repos + issues
 * [Protus](https://github.com/SUSE/Portus/labels/junior%20job)
 * [RBKit-electron-redux](https://github.com/code-mancers/rbkit-electron-redux/issues)
 * [Jruby](https://github.com/jruby/jruby/labels/beginner)
+* [Gitlab](https://gitlab.com/gitlab-org/gitlab-ce/issues?assignee_id=0&label_name%5B%5D=Accepting%20Merge%20Requests&sort=weight_asc)
