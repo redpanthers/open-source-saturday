@@ -64,9 +64,9 @@ You need to bring your own laptop, with all the softwares required for developin
 What all items will be provided.
 -----------------------------
 
-* Lunch & Snacks
-* Coffee & Tea (as much as you want)
-* Soft Drinks (Till the stock last)
+* Mentorship
+* Free Internet
+* Guidence
 * Red Panthers Swags (Occasionally)
 
 How many can attend
